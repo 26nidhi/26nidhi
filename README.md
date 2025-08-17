@@ -1,15 +1,14 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Nidhi Walke</h1>
-<h3 align="center">🚀 2nd-year CSE student at IIIT Gwalior | MERN Stack Developer | Backend Enthusiast</h3>
+<h3 align="center">🚀 Prefinal year student at IIIT Gwalior | MERN Stack Developer </h3>
 
 ---
 
 <!-- About Section -->
 ## 👩‍💻 About Me
 - 🎓 Pursuing **B.Tech in CSE** at IIIT Gwalior  
-- 💻 Passionate about **Full Stack Development (MERN)** & exploring **Backend systems**  
-- 🌱 Currently working on **CodeSync** (real-time collaborative editor) and **RouteWise** (travel planner)  
-- 📫 Reach me at: **nidhiwalke26@gmail.com**  
+- 💻 Passionate about **Full Stack Development (MERN)**
+- 📫 Reach me at: **nidhi2006w@gmail.com**  
 
 ---
 
